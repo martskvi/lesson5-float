@@ -1,0 +1,168 @@
+.paper {
+	margin-top: 82px;
+	margin-left: 163px;
+}
+.sawyisi {
+	font-size: 14px;
+	color: #5863F8;
+	text-transform: uppercase;
+}
+.satauri1 {
+	float: left;
+	width: 550px;
+	font-size: 42px;
+	columns: #000000;
+	text-transform: uppercase;
+}
+.section1 {
+	float: left;
+	margin-top: 50px;
+	width: 536px;
+	height: 190px;
+	/*background-color: blue;*/
+}
+.img {
+	float: left;
+}
+.blue {
+	/*float: left;*/
+	font-size: 14px;
+	color: #5863F8;
+	text-transform: uppercase;
+}
+.black {
+	font-size: 18px;
+	color: #000000;
+	/*text-transform: uppercase;*/
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.text {
+	font-size: 14px;
+	color: #B1B1B1;
+	width: 260px;
+}
+.section2 {
+	float: left;
+	margin-top: 50px;
+	margin-left:16px;
+}
+.sheelah {
+	float: left;
+}
+.text-size {
+	float: left;
+	margin-top: 37px;
+	margin-left: 16px;
+}
+.clear {
+	clear: both;
+}
+
+/*meore satauri*/
+.sawyisi2 {
+	font-size: 14px;
+	color: #5863F8;
+	text-transform: uppercase;
+	margin-top: 90px;
+}
+
+/*mesame block*/
+
+.mesame {
+	width: 352px;
+	height: 360px;
+	margin-top: 50px ;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	text-align: center;
+	float: left;
+}
+.blue2 {
+	width: 102px;
+	height: 20px;
+	font-size: 14px;
+	color: #5863F8;
+	margin-top: 23px;
+	/*text-transform: uppercase;*/
+}
+.black2 {
+	width: 226px;
+	height: 25px;
+	font-size: 18px;
+	color: #000000;
+}
+.grey2 {
+	width: 260px;
+	height: 65px;
+	font-size: 14px;
+	color: #B1B1B1;
+	width: 260px;
+}
+.mesame2 {
+	float: left;
+	width: 352px;
+	height: 360px;
+	margin-top: 50px;
+	margin-left: 16px;
+	margin-right: 16px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	text-align: center;
+}
+/*.psevdo::after {
+	content: ' ' ;
+	clear: both;
+}*/
+.mesame3 {
+	float: left;
+	width: 352px;
+	height: 360px;
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+/*meotxe block*/
+.meotxe {
+	width: 352px;
+	height: 360px;
+	margin-top: 15px ;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	text-align: center;
+	float: left;
+}
+.meotxe2 {
+	float: left;
+	width: 352px;
+	height: 360px;
+	margin-top: 15px;
+	margin-left: 16px;
+	margin-right: 16px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	text-align: center;
+}
+.meotxe3 {
+	float: left;
+	width: 352px;
+	height: 360px;
+	margin-top: 15px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	text-align: center;
+}
